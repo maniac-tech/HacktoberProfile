@@ -5,6 +5,11 @@ var profiles = [
         "github" : "srinibasbiswal"
     },
     {
+        "name" : "Dhruv Vaghela",
+        "place" : "Mumbai, India",
+        "github" : "dhruvv4"
+    },
+    {
         "name" : "Chee Seng Leong",
         "place" : "Kuala Lumpur, Malaysia",
         "github" : "csleong98"
