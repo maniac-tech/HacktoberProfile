@@ -181,6 +181,11 @@ var profiles = [
         "github" : "mateohoxha"
     },
     {
+        "name" : "Yash Gosalia",
+        "place" : "Mumbai, India",
+        "github" : "yashgosalia"
+    },
+    {
         "name" : "Pelin Uyar",
         "place" : "Izmir, Turkey",
         "github" : "p2uyar"
